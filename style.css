@@ -40,7 +40,7 @@ body::after {
 }
 
 body::before {
-  background: url("fotonath.jpeg") 42% 60% / cover no-repeat;
+  background: url("images/fotonath.jpeg") 42% 60% / cover no-repeat;
   opacity: 0.45;
 }
 
